@@ -31,7 +31,7 @@ Reusable **UI components** used across the app.
 - `AuthPage.tsx` - Handles authentication UI.
 - `Canvas.tsx` - Main drawing canvas component.
 - `DrawingToolbar.tsx` - Toolbar for canvas tools (pen, eraser, etc.).
-- `Topbar.tsx` - Navigation bar.
+- `Topbar.tsx` - Toolbar for canvas drawing modes.
 - `RoomCanvas.tsx` - Manages real-time drawing sessions.
 - `VoiceChat.tsx` - Voice chat integration.
 
