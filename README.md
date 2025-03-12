@@ -45,8 +45,6 @@ This is the **WebSocket backend** for real-time features.
 - Ensures seamless **room-based collaboration**.  
 
 ---
-&nbsp;
-&nbsp;
 ## 📢 Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to improve Dev-Sketch.
 &nbsp;
@@ -64,10 +62,11 @@ cd Dev-Sketch
 
 - [Frontend README](https://github.com/RISHIK92/Dev-Sketch/tree/main/frontend)  
 - [HTTP Backend README](https://github.com/RISHIK92/Dev-Sketch/tree/main/http-backend)  
-- [WebSocket Backend README](https://github.com/RISHIK92/Dev-Sketch/tree/main/websocket-backend)  
+- [WebSocket Backend README](https://github.com/RISHIK92/Dev-Sketch/tree/main/websocket-backend)
+  
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
+
 This README gives a **clear overview** of the entire project. Let me know if you need any edits! 😊
