@@ -55,7 +55,7 @@ cd Dev-Sketch
 ```
 
 
-📢 Contributing
+## 📢 Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to improve Dev-Sketch.
 
 🔎 Visit each folder's README for a more detailed view of what each folder does:
