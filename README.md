@@ -17,7 +17,7 @@
 - **Frontend**: Next.js, React, TypeScript, Tailwind CSS
 - **Backend**:
   - **HTTP Backend**: Node.js, Express.js, Prisma (PostgreSQL)
-  - **WebSocket Backend**: Node.js, Socket.io
+  - **WebSocket Backend**: Websockets and WebRTC
 - **Authentication**: JWT (JSON Web Token)
 - **Database**: PostgreSQL (via Prisma ORM)
 - **Package Manager**: pnpm and npm
