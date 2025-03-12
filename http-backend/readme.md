@@ -26,9 +26,6 @@ Contains the main backend source code.
 ### `prisma/`
 Database schema and migration files for **PostgreSQL**.
 
-### `config/`
-Configuration files for **database, authentication, and API keys**.
-
 ### `.env`
 Stores environment variables like database URL, JWT secret, and API keys. *(Ignored in Git for security.)*
 
