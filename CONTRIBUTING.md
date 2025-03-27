@@ -1,4 +1,4 @@
-# Dev-Sketch Development Guidelines
+# Dev-Sketch Contributing Guidelines
 
 ## Code Quality & Standards
 
