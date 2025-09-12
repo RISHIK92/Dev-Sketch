@@ -40,7 +40,7 @@ export default function SignUp() {
         console.error("Signup error", error);
         if (error.response) {
           if (error.response.status === 400) {
-            setError({ message: "Incorrect Inputs. Please check your details." });
+            setError({ message: "Username should not contain !@#% or other characters" });
           } else if (error.response.status === 411) {
             setError({ field: "username", message: "User already exists with this email." });
           } else {
